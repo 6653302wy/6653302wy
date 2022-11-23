@@ -1,5 +1,5 @@
 - 👋 Hi, I’m wanpp
-- 👀 I’m interested in react & h5 game
+- 👀 I’m good at react & layabox h5 game
 
 <!---
 6653302wy/6653302wy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
